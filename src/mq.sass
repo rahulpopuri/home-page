@@ -68,7 +68,7 @@ $speed: 86ms !default
 ////////////////////////////////////////////////
 // 2. Primary colors
 
-$primary: $turquoise !default
+$primary: $blue !default
 
 $info: $blue !default
 $success: $green !default
@@ -151,6 +151,11 @@ $sizes: $size-1 $size-2 $size-3 $size-4 $size-5 $size-6 $size-7 !default
 
 $navbar-height: 3.25rem
 
+$navbar-item-color: $black
+$navbar-item-hover-color: $blue
+$navbar-item-hover-background-color: #28aea6
+$section-padding: 1.25rem !default
+
 .is-sidebar-menu
   padding: 2.5rem
   background: $grey-dark
@@ -172,4 +177,7 @@ $navbar-height: 3.25rem
   background: $grey-lighter
 
 .navbar
-  background-color: $grey-lighter
+  background-color: $primary
+
+.section
+  padding: $section-padding
