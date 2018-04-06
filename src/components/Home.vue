@@ -59,7 +59,7 @@
                                                     Plants
                                                 </a>
                                                 <hr class="dropdown-divider">
-                                                <a class="dropdown-item " href="http://twine.bubblewrapstudios.ca" target="_blank">
+                                                <a class="dropdown-item " href="https://github.com/rahulpopuri/url-shortener" target="_blank">
                                                     URL Shortener
                                                 </a>
                                             </div>
